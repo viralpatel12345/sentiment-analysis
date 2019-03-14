@@ -1,0 +1,3 @@
+FLASK SETUP IN WINDOW 10 
+
+http://timmyreilly.azurewebsites.net/python-flask-windows-development-environment-setup/
